@@ -1,0 +1,8 @@
+gensim==4.3.3
+beautifulsoup4==4.12.3
+pandas
+numpy
+scikit-learn
+nltk
+re
+tqdm
