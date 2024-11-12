@@ -27,5 +27,5 @@ There are three classes in this dataset: Positive, Negative and Neutral. We rega
 ## Results
 ### Accuracy Score
   * Logistic Regression - 0.54020
-  * Random Forest Classfier - 0.76680
+  * Random Forest Classifier - 0.76680
   * XGBoost Classifier - 0.82392
