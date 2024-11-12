@@ -13,4 +13,19 @@ There are three classes in this dataset: Positive, Negative and Neutral. We rega
 * Sentiment - The sentiment of the particular tweet i.e. positive, negative, neutral, irrelevant
 * Tweet Content - Contents of the tweet
 
-## 
+## Classification Report of various models used
+
+### Logistic Regression
+  ![classification report using LR](https://github.com/ratul-07/Twitter-Sentiment-Analysis/blob/main/Images/ClassificationReport%20LR%20TSA.png)
+
+### Random Forest Classifier
+  ![classification report using RF](https://github.com/ratul-07/Twitter-Sentiment-Analysis/blob/main/Images/ClassificationReport%20RF%20TSA.png)
+
+### XGBoost Classifier
+  ![classification report using XGB](https://github.com/ratul-07/Twitter-Sentiment-Analysis/blob/main/Images/ClassificationReport%20XGB%20TSA.png)
+
+## Results
+### Accuracy Score
+  * Logistic Regression - 0.54020
+  * Random Forest Classfier - 0.76680
+  * XGBoost Classifier - 0.82392
